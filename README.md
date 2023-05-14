@@ -4,6 +4,8 @@ This project provides WebView for OpenAI chatGPT with voice support, both voice 
 ## Download
 <a href=https://github.com/adhiraj-ranjan/ChatGPT-android/releases>Download apk</a>
 
+## Credits
+Built over https://github.com/kabilme/ChatGPT with few Bug fixes and Improvements in UI and Functionality
 
 ### Find Me on :
 <p align="left">
