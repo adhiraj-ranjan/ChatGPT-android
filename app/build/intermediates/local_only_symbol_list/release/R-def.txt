@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable baseline_close_24
+drawable baseline_mic_24
+drawable baseline_speaker_24
+drawable chatgpt
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id exit
+id mic
+id progressBar
+id speak
+id webview
+layout activity_main
+menu toolbar_menu
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.ChatGPT
+xml backup_rules
+xml data_extraction_rules
